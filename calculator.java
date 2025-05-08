@@ -1,4 +1,4 @@
-package lima;
+package record;
 
 import java.util.Scanner;
 
